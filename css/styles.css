@@ -1,0 +1,15 @@
+.chart:hover{
+    transform: scale(1.06);
+    transition: .3s;
+}
+
+li {
+    list-style: none;
+}
+
+.card-border {
+    border: 2px solid black
+}
+.img-border {
+    border-bottom: 2px solid black
+}
